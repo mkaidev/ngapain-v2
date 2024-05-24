@@ -47,5 +47,27 @@ DATABASE_URL=
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 ```
 
+## Video Tutorial
+
 If you want to learn how to create it please follow below tutorial👇: <br />
 ➡ Tutorial Link 💚: [Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL)](https://www.youtube.com/watch?v=pRybm9lXW2c)
+
+## Images of The Website
+
+![Homepage](https://res.cloudinary.com/dymu4drhj/image/upload/c_limit,w_800/f_auto/q_auto/d6cmqqzbmjaicqppuk6n?_a=BAVAfVBy0) <br />
+
+![Sign-in page](https://res.cloudinary.com/dymu4drhj/image/upload/c_limit,w_800/f_auto/q_auto/ih96rebv6nmqn6nn13so?_a=BAVAfVBy0) <br />
+
+![Board page](https://res.cloudinary.com/dymu4drhj/image/upload/c_limit,w_800/f_auto/q_auto/szwh3ovzxuwaq4ninzdx?_a=BAVAfVBy0) <br />
+
+![Activity page](https://res.cloudinary.com/dymu4drhj/image/upload/c_limit,w_800/f_auto/q_auto/fwg60fk1cjmzjmclbcyf?_a=BAVAfVBy0) <br />
+
+![Setting page](https://res.cloudinary.com/dymu4drhj/image/upload/c_limit,w_800/f_auto/q_auto/uizpl5053xllhop2cgsq?_a=BAVAfVBy0) <br />
+
+![Upgrade menu](https://res.cloudinary.com/dymu4drhj/image/upload/c_limit,w_800/f_auto/q_auto/i7ltpfhmvg9ipnwl0xea?_a=BAVAfVBy0) <br />
+
+![Billing menu](https://res.cloudinary.com/dymu4drhj/image/upload/c_limit,w_800/f_auto/q_auto/mfs6q9n1fts3e4w1wdyt?_a=BAVAfVBy0) <br />
+
+![Task board page](https://res.cloudinary.com/dymu4drhj/image/upload/c_limit,w_800/f_auto/q_auto/qlzv1ohy3umel4aompuk?_a=BAVAfVBy0) <br />
+
+![Card task list](https://res.cloudinary.com/dymu4drhj/image/upload/c_limit,w_800/f_auto/q_auto/hwsqnw35h7nfxiizxhzr?_a=BAVAfVBy0) <br />
